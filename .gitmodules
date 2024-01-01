@@ -3,4 +3,4 @@
 	url = ./backend
 [submodule "frontend"]
 	path = frontend
-	url = ./frontend
+	url = https://github.com/lprevidente/odyssey-frontend
